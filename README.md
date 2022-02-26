@@ -7,7 +7,7 @@ We provide the *MATLAB&Python* implementation for our AAAI 2022 paper: [**Multi-
 
 ## Data Preparation:
 - **AV16.3:** the original dataset, available at [http://www.glat.info/ma/av16.3/](http://www.glat.info/ma/av16.3/).
-- **MPTdata:** the preprocessed data provided for demo, available at [MPTdata](https://disk.pku.edu.cn:443/link/A7DB74EE5F407F4AA43D5BBFDE05AB95).
+- **MPTdata:** the preprocessed data provided for demo, available at [MPTdata](https://disk.pku.edu.cn:443/link/A7DB74EE5F407F4AA43D5BBFDE05AB95), and use `cat AAAI22_MPT.tar.gz.* | tar -zxv` to unzip the file.
 
 ## Descriptions:
 1. **Audio Measurement:**  The MATLAB implement of stGCF. The parameter files that the camera projection model depends on can downloaded from [AV16.3](http://www.glat.info/ma/av16.3/) dataset.
