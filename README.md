@@ -1,13 +1,13 @@
  # MPT
 This is a Multi-modal Perception Tracker (MPT) for speaker tracking using both audio and visual modalities. 
 
-We provide the *MATLAB&Python* implementation for our AAAI 2022 paper: **Multi-Modal Perception Attention Network with Self-Supervised Learning for Audio-Visual Speaker Tracking.**
+We provide the *MATLAB&Python* implementation for our AAAI 2022 paper: [**Multi-Modal Perception Attention Network with Self-Supervised Learning for Audio-Visual Speaker Tracking.**](https://arxiv.org/abs/2112.07423)
 ## Requirements
 ![Python >=3.6](https://img.shields.io/badge/Python->=3.6-yellow.svg) ![PyTorch >=1.7](https://img.shields.io/badge/PyTorch->=1.7-blue.svg)  ![MATLAB ==2016](https://img.shields.io/badge/MATLAB-==2016-pink.svg)
 
 ## Data Preparation:
-- **AV16.3:** the original dataset, available at [http://www.glat.info/ma/av16.3/](http://www.glat.info/ma/av16.3/)
-- **MPTdata:** the preprocessed data provided for demo, available at.
+- **AV16.3:** the original dataset, available at [http://www.glat.info/ma/av16.3/](http://www.glat.info/ma/av16.3/).
+- **MPTdata:** the preprocessed data provided for demo, available at [MPTdata](https://disk.pku.edu.cn:443/link/A7DB74EE5F407F4AA43D5BBFDE05AB95).
 
 ## Descriptions:
 1. **Audio Measurement:**  The MATLAB implement of stGCF. The parameter files that the camera projection model depends on can downloaded from [AV16.3](http://www.glat.info/ma/av16.3/) dataset.
